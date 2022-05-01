@@ -22,9 +22,11 @@ def new_event(event: Event):
     global index
     index += 1
 
+    # PATH be different on prod server - beware
+    # should check to see if dev or prod
     ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-    root_image_path = ROOT_DIR + "/../../images"
-    root_meta_path = ROOT_DIR + "/../../metadata"
+    root_image_path = ROOT_DIR + "/images"
+    root_meta_path = ROOT_DIR + "/metadata"
 
     # Get files for index
     image_file = str(index) + ".jpg"
