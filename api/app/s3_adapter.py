@@ -19,7 +19,7 @@ def upload_image(path_to_file: str, filename: str, folder: str = None):
 
     s3.upload_file(
         path_to_file,
-        S3_BUCKET_NAME,
+        'pizzapalsmedia',
         Key=key,
         ExtraArgs={ "ContentType": "image/jpeg" }
     )
@@ -30,7 +30,7 @@ def upload_metadata(path_to_file: str, filename: str, folder: str = None):
     key = folder + "/" + filename
     s3.upload_file(
         path_to_file,
-        S3_BUCKET_NAME,
+        'pizzapalsmedia',
         Key=key,
         ExtraArgs={ "ContentType": "json" }
     )
