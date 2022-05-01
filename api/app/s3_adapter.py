@@ -13,6 +13,8 @@ s3 = boto3.client('s3',
          aws_secret_access_key=SECRET)
 
 def upload_image(path_to_file: str, filename: str, folder: str = None):
+    print("USING BUCKET")
+    print(S3_BUCKET_NAME)
     key = filename
     if folder != None:
         key = folder + "/" + filename
