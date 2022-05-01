@@ -22,8 +22,10 @@ def new_event(event: Event):
     global index
     index += 1
 
-    root_image_path = "../../images/"
-    root_meta_path = "../../metadata/"
+    ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+    root_image_path = ROOT_DIR + "../../images"
+    root_meta_path = ROOT_DIR + "../../metadata"
+
     # Get files for index
     image_file = str(index) + ".jpg"
     path_to_image = os.path.join(root_image_path, image_file)
