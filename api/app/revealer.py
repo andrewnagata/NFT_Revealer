@@ -19,7 +19,7 @@ def new_event(event: Event):
     if event.contractCall.methodName != "publicMint":
         return
 
-    count = event.contractCall.params["count"]
+    count = int(event.contractCall.params["count"])
     global index
     start = index
     index += count
