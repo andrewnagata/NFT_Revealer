@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #3",
+    "description": "This is the description",
+    "image": "ipfs://QmRCiQfUmjf3rM4C3v34UKcLmN7gCrgGskToYUgMGFdvau",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_1"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Undies"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Brown Owl"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Rarepizzas"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_30"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_17"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Omakase Frens #38",
+    "description": "This is the description",
+    "image": "ipfs://QmSxbjiRStPrh6bzaHSKGbhgQsXUGEoL5TJ63JXf1LNgDs",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_6"
+        },
+        {
+            "trait_type": "body",
+            "value": "Supernatural Poodle"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_59"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Pink Horned Bubble"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

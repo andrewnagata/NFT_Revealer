@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #16",
+    "description": "This is the description",
+    "image": "ipfs://QmW3YDFmFFeVcwTzkjHWAdQ7F6AakPCmsQ43v4LT2v6Vxd",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Peanut Pile"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_32"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Pink Horned Bubble"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

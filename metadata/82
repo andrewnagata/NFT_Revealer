@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #82",
+    "description": "This is the description",
+    "image": "ipfs://QmZg1oXucxSyer3JSLoQb5h3hq4XbAg69TyVSg8Uwu9gge",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Kilt"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Anchovies"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_75"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_21"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Blue Bubble Helmet"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #21",
+    "description": "This is the description",
+    "image": "ipfs://QmVuxhp7w7EMg2P4EfoVGpBaMj7kgnN1Xan6D7pSQrQpWx",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Peanut Poo Pile"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Anchovies"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_129"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "King Shrimp"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

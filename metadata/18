@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #18",
+    "description": "This is the description",
+    "image": "ipfs://QmcQ8HyXzpVUgfU8JvzHrY3yTV6jY3XWgYFdYxFeVxjpxh",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_13"
+        },
+        {
+            "trait_type": "body",
+            "value": "Lobster"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_115"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_46"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Green Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #12",
+    "description": "This is the description",
+    "image": "ipfs://QmQPbAHpyCetyCRqz2FNFbbBpbsc1nuZKBQ7ApDca9g17j",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tentacles"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_2"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_17"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Squirty Mayo Crown"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #65",
+    "description": "This is the description",
+    "image": "ipfs://QmaXyt2B2A6uenL7msGtGrdSssSqb4dupRqDtHgACe7bRm",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Lobster"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_1"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_36"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Little Crown"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

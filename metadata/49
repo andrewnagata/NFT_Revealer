@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #49",
+    "description": "This is the description",
+    "image": "ipfs://QmeMf88aLJPz61jussSem7VLFFEEgCFGgNZsxqeGth9Vm7",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_17"
+        },
+        {
+            "trait_type": "body",
+            "value": "Astro Undies"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_75"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_22"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Mermaid"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Cactus Cap"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

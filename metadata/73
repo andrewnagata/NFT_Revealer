@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #73",
+    "description": "This is the description",
+    "image": "ipfs://QmUJ8ejG3RfbpFMsgt9W1kCKqAU9gL3tQpB7MUDxFT3wT5",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_15"
+        },
+        {
+            "trait_type": "body",
+            "value": "Blackberry"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_121"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_43"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Green Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

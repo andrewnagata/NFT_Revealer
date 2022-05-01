@@ -1,6 +1,7 @@
 import os
 from web3_adapter import getMaxSupply
 from models import Event
+from s3_adapter import upload_image, upload_metadata
 
 total_minted: int
 index: int
@@ -12,7 +13,7 @@ def init():
     print(f"Revealer initialized at index: {index}")
 
 def new_event(event: Event):
-    print("We have a new event")
+    print("We have a new event uploading files...")
     if event.status != "confirmed":
         return
     if event.contractCall.methodName != "publicMint":
@@ -21,13 +22,18 @@ def new_event(event: Event):
     global index
     index += 1
 
-    path = "/usr/share/nginx/html/"
-    if os.path.exists(path):
-        filename = str(index) + ".txt"
-        full = os.path.join(path, filename)
-        with open(full, 'w') as f:
-            f.write('Create a new text file!')
-    
-            print(f"Uploading files for token_id: {index}")
-    else:
-        print("no path to write to")
+    root_image_path = "../../images/"
+    root_meta_path = "../../metadata/"
+    # Get files for index
+    image_file = str(index) + ".jpg"
+    path_to_image = os.path.join(root_image_path, image_file)
+    meta_file = str(index)
+    path_to_meta = os.path.join(root_meta_path, meta_file)
+
+    upload_image(path_to_image, image_file)
+    print(f"Uploaded image: {image_file}")
+
+    upload_metadata(path_to_meta, meta_file, "meta")
+    print(f"Uploaded metadata: {meta_file}")
+
+    print(f"Upload complete for token: {index}")

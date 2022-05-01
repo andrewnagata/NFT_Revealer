@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #51",
+    "description": "This is the description",
+    "image": "ipfs://QmRaX4nLGWy9WvHUJZF3apxsD9sCWFtCoZCQADTVbDGYPz",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Squid Ink"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_65"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_23"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Frog Legs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Omakase Frens #57",
+    "description": "This is the description",
+    "image": "ipfs://Qma17tyWWBFyUeMCNst7bWWchm88TT4dY2x1GyYrhDaADM",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Poprocks"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_2"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_40"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

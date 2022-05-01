@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #26",
+    "description": "This is the description",
+    "image": "ipfs://QmUVj9wXqpiQcFmPQLQPyq9tSuLJcPxwnDW1QTBFJoKyFH",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Bacon"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_121"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_39"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Yellow Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

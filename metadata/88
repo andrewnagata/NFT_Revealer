@@ -1,0 +1,55 @@
+{
+    "name": "Omakase Frens #88",
+    "description": "This is the description",
+    "image": "ipfs://QmX3MWQTBPhm14733FGRKgTxyC5UJkTQQCHMkLViUeYohf",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_3"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Undies"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_27"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_34"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_10"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Tomatoe"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Space Shrooms"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

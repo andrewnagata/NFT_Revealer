@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #41",
+    "description": "This is the description",
+    "image": "ipfs://QmbefdG2b8NeYWRXPcPaN7ATRWGbtvbSUDFMVeQz6a3SAJ",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Mermaid Tuna"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Anchovies"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_125"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_42"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

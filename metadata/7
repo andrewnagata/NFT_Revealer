@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #7",
+    "description": "This is the description",
+    "image": "ipfs://QmfYyxUGPXGxQzzzp5eMDDxre4EtYMQ7ubSTVmXA1qmws4",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_3"
+        },
+        {
+            "trait_type": "body",
+            "value": "Bacon"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Cicada"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_87"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "King Shrimp"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #50",
+    "description": "This is the description",
+    "image": "ipfs://QmTUhTAZgj8JBAKh6i4QR93b7EZ5AEhBPbmDWLEvXM2TPj",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_11"
+        },
+        {
+            "trait_type": "body",
+            "value": "Mermaid Shrimp"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_73"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_11"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Strokes"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

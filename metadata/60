@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #60",
+    "description": "This is the description",
+    "image": "ipfs://Qmcx95UntnQc9c9tGMxD7yjnY4CaKt27uiCbQbUmXovrpb",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Peanut Poo Pile"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_60"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_18"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_20"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

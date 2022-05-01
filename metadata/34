@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #34",
+    "description": "This is the description",
+    "image": "ipfs://QmS2pyxw7oNV1e2Qax4PfmLqbSiKMXRQxNG2b7bhuc2btV",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Fried Chicken Undies"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_93"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_47"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Crown Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #75",
+    "description": "This is the description",
+    "image": "ipfs://QmPUWZwoPoPnz1QDg1kJiwAc2SHNJgVKd5FvxgrFvy1q6D",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_18"
+        },
+        {
+            "trait_type": "body",
+            "value": "Astronaut"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_4"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_47"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_12"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Hibuscus Crown"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

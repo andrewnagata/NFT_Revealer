@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #8",
+    "description": "This is the description",
+    "image": "ipfs://QmTxmhyHxnMVGG9bAAgPd1VuMQ7PvvLJrw6VKwcnhia6ix",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_12"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tentacles"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Fingers"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_22"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_20"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_2"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

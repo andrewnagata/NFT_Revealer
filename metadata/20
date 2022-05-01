@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #20",
+    "description": "This is the description",
+    "image": "ipfs://QmXYV8i7pbszfRv6AaNsZAsDhMbTSqDpbtcpBsHiZc5VX2",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_1"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Bikini"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Brown Owl"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_126"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Jalepeno Gohst Pepper"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

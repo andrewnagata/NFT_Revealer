@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #19",
+    "description": "This is the description",
+    "image": "ipfs://QmX8Br5oEv7oRkki6XL3t2a9eA8gKVFRZmyPySpJpoiUDm",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Cactus Socks"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Buttered Rump"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_64"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_24"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

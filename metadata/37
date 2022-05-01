@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #37",
+    "description": "This is the description",
+    "image": "ipfs://QmZKCx9AjAgu5tFMqJ4cvkgtVtVs8QJGQ8ufeMMxH1KD4M",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_10"
+        },
+        {
+            "trait_type": "body",
+            "value": "Octo"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik two"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_126"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_40"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_8"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Jalepeno Slice"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #63",
+    "description": "This is the description",
+    "image": "ipfs://Qmbqqvyh3vibUGMzBTJKTkGaeDar7GHxXT5WXm9g6rqBwr",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Lobster"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_18"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_47"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Kale Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #72",
+    "description": "This is the description",
+    "image": "ipfs://QmZvffB99XfnG1y9kJZE5oY8BqPaKxFfm5buAi95kavskk",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_1"
+        },
+        {
+            "trait_type": "body",
+            "value": "Fried Chicken Bikini"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_77"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Onion Ring"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

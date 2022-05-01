@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #62",
+    "description": "This is the description",
+    "image": "ipfs://QmRmmkkTUcdmPt6PKBdbSnmpszuGrripyk9CqLrMjZ2n8w",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Zombie"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_66"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_41"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Frog Legs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

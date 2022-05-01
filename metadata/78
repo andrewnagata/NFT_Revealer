@@ -1,0 +1,51 @@
+{
+    "name": "Omakase Frens #78",
+    "description": "This is the description",
+    "image": "ipfs://QmNn18sBRH7bE6QbHq8sH2o6FfqgL7zWwocyeZNpGjaqTw",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_11"
+        },
+        {
+            "trait_type": "body",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_68"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_16"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_21"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "One Button"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Salmon Roe Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

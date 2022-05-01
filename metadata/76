@@ -1,0 +1,55 @@
+{
+    "name": "Omakase Frens #76",
+    "description": "This is the description",
+    "image": "ipfs://QmVih99NsmcLysugw7ZjcANjnv5Mjs7Gnxw8ugLEB9skos",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Pink Froglegs"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_30"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_45"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_5"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Grapefruit Brows"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

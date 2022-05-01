@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #24",
+    "description": "This is the description",
+    "image": "ipfs://QmR2PEyJuJZkKu2hpRNsrXqyUdPoAQk1CAhP5shotjxCho",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik two"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_4"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_29"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Black Tufted"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Crown Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #92",
+    "description": "This is the description",
+    "image": "ipfs://QmVi9iMYKvccBFBc9VeCUXDCR5g1ppkuYYwQ9XZiJWeHhj",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_13"
+        },
+        {
+            "trait_type": "body",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_18"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_22"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Mermaid"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

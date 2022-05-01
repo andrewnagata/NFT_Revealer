@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #61",
+    "description": "This is the description",
+    "image": "ipfs://QmZNMbmbqi2ENEAguNveBJB31bwT43GmTDYrfqtSvWsHYQ",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_61"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_41"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_16"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Pickle"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

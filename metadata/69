@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #69",
+    "description": "This is the description",
+    "image": "ipfs://QmYhkbsjJi2x4k2goUCXT6LecncUzwAceWfQyAKffPFi6c",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_1"
+        },
+        {
+            "trait_type": "body",
+            "value": "White Spot"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Black Feather"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_76"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_5"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

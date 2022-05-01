@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #43",
+    "description": "This is the description",
+    "image": "ipfs://QmYiS8nXR7HCiSUPrrtGfa5nTWUj6ADmsHuyiC9C5MdHD1",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_61"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_10"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Camellia Crown"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #15",
+    "description": "This is the description",
+    "image": "ipfs://QmT9LWyo4DU5dz8CNhtQF2xxyrSLJQiiYEdbyPzkTKvQu9",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Sanitized Poprocks"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_126"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_35"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Veil"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

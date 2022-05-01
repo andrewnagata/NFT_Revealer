@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #1",
+    "description": "This is the description",
+    "image": "ipfs://QmdDdnyjzDqY8ExbQ4DZx9QoSmHRJ1j4BoX3bSjrgJ2f6U",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Supernatural Poodle"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Doge Toes"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Rarepizzas"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Anchovies"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_4"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_39"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

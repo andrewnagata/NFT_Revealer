@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #54",
+    "description": "This is the description",
+    "image": "ipfs://Qmd8VcEuhHRSKjtSNW7cC1BsViHgcUiBzUT7owuEooUyaB",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_15"
+        },
+        {
+            "trait_type": "body",
+            "value": "Laika"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_29"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_44"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_12"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Lashes"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Poprocks"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

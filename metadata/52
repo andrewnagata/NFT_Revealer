@@ -1,0 +1,35 @@
+{
+    "name": "Omakase Frens #52",
+    "description": "This is the description",
+    "image": "ipfs://Qmd29WU78XcruNQKbbRPVBYrvSyEH3HukFfYTWtWjZ5Dtr",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Lobster"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_5"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Light Blue Bubble"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

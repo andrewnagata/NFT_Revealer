@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #25",
+    "description": "This is the description",
+    "image": "ipfs://Qme2KMQnEtVDZrvYGF8RtRezH96YaaMRCCTm3SquN5i1VL",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_44"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_24"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Ham Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

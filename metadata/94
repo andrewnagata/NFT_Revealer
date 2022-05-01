@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #94",
+    "description": "This is the description",
+    "image": "ipfs://QmYnH8swTji463WwydMwud4KtgaMbdhwSpGD6sXEPqnUA7",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Bacon"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Cicada"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_1"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_13"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Lashes"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Blue Bubble Helmet"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

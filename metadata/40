@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #40",
+    "description": "This is the description",
+    "image": "ipfs://QmPjwHCQaqCZkPfcUSezW5GQjfhUj7VDm67jiWEunZxvMX",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_6"
+        },
+        {
+            "trait_type": "body",
+            "value": "Space Body"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_129"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_17"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Salmon Roe Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #85",
+    "description": "This is the description",
+    "image": "ipfs://Qmf5ZiWYrqZd6Trm6WG1zVeXvkkR4cGXKcnyKAUD6zqxaC",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Buttered Rump"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_30"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_13"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Ham Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

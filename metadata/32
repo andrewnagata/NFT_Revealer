@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #32",
+    "description": "This is the description",
+    "image": "ipfs://QmVUo9MwWL1LQx1ckoXgDbPFVNc6VNUXLf439bq83v4eNn",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_10"
+        },
+        {
+            "trait_type": "body",
+            "value": "Mermaid Tuna"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Rarepizzas"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_121"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_42"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

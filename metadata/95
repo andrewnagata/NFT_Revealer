@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #95",
+    "description": "This is the description",
+    "image": "ipfs://QmPHmqZAfPXee3tGa2TRq57qqtVSydi9kV6vpE15bEecVG",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_115"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_11"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #96",
+    "description": "This is the description",
+    "image": "ipfs://QmYgSdQfW2NXPwCyXAjqrSHsKuYvBSW63oXjzzRNxCyqWb",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_14"
+        },
+        {
+            "trait_type": "body",
+            "value": "Mermaid Tuna"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_76"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_17"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_6"
+        },
+        {
+            "trait_type": "earrings",
+            "value": "Pacifier"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Jewel Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

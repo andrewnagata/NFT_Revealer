@@ -1,0 +1,55 @@
+{
+    "name": "Omakase Frens #35",
+    "description": "This is the description",
+    "image": "ipfs://QmYYHtSsja2zSAPSCvXQcmR2234wA2jvtG124oxyQKqihB",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Supernatural Poodle"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Buttered Rump"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_57"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_23"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_20"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Glasses"
+        },
+        {
+            "trait_type": "earrings",
+            "value": "Blackberry"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Poprocks"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

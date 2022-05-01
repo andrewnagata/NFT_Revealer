@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #59",
+    "description": "This is the description",
+    "image": "ipfs://QmWbzifZZ9xjX7wgt24dJKabkZxucph3oWetZQhAZNNsi8",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Fried Chicken Bikini"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Color Owl"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_27"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Tomatoe"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #98",
+    "description": "This is the description",
+    "image": "ipfs://QmbcBqk9Y3SBW75A4aQQsKPbhqqMjto2RTX9Gcf9FiVWQa",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_3"
+        },
+        {
+            "trait_type": "body",
+            "value": "Bacon"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_114"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_11"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Tongue Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

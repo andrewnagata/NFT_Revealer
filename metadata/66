@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #66",
+    "description": "This is the description",
+    "image": "ipfs://QmTbFaEgEfi9CMRJ8u4Ms1mzY5Dse8m3Bc2yBbaWnrsUf4",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_13"
+        },
+        {
+            "trait_type": "body",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_4"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_24"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Salmon Roe Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

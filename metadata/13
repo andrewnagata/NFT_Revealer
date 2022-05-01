@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #13",
+    "description": "This is the description",
+    "image": "ipfs://Qmc2pn9yorkHSDsmLhzsYKcoD9mxtygozoYRXeqfJJYrcq",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_34"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_24"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

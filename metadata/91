@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #91",
+    "description": "This is the description",
+    "image": "ipfs://QmfAZVFpx6dxLuPAebvEVPhfYQpnVzc3ALjkzoN5wLu6Wm",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_18"
+        },
+        {
+            "trait_type": "body",
+            "value": "Blackberry"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_128"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_19"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

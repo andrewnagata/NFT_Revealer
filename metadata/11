@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #11",
+    "description": "This is the description",
+    "image": "ipfs://QmWqs2iemviD7UuvCo39JPYmkmMrUf25McVasipFxHV6a2",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Supernatural Poodle"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_69"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_22"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

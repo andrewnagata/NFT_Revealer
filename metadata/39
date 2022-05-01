@@ -1,0 +1,35 @@
+{
+    "name": "Omakase Frens #39",
+    "description": "This is the description",
+    "image": "ipfs://QmXw96bPNgEBaF5Y8e6qjcCuAV74HwYh8tXRNEhQMQtwv8",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Sanitized Pink"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Fingers"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_77"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Onion Ring"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

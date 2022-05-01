@@ -1,0 +1,51 @@
+{
+    "name": "Omakase Frens #42",
+    "description": "This is the description",
+    "image": "ipfs://QmT5NQEnXi8EZV4GGpg4gqe2YQigxoWaHzi5fv5KqJjrjR",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_18"
+        },
+        {
+            "trait_type": "body",
+            "value": "Astronaut"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_2"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_4"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_20"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blueberry Bagel"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Mermaid"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

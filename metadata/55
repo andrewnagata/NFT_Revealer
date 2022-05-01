@@ -1,0 +1,51 @@
+{
+    "name": "Omakase Frens #55",
+    "description": "This is the description",
+    "image": "ipfs://QmYRWRDE5y8WJx95JK86FJ99KxEHQPLozozM6nV8gmJzqU",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Cactus Socks"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_26"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_6"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_12"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Blueberry Bagel"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Peanut Butter Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

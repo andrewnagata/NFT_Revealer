@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #33",
+    "description": "This is the description",
+    "image": "ipfs://QmSwPUAcR486Ud8fhtomJw4sttps5gyG5E44PMihCJdARV",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "RugWTF Jerk"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Black Feather"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_81"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_43"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_22"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Black Cucumber"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

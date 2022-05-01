@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #64",
+    "description": "This is the description",
+    "image": "ipfs://QmUhRryXssV7ypz7DotyPE6haUScBkDHnUejZ9bVExvkob",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Cactus Socks"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik two"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_121"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_22"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Ham Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

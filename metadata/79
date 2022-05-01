@@ -1,0 +1,47 @@
+{
+    "name": "Omakase Frens #79",
+    "description": "This is the description",
+    "image": "ipfs://QmSvLxwH4J9gUtGKmVpJy6EfF2hnrEy2Kc9QgU44DcLFAb",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Fried Chicken Undies"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Black Feather"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_85"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_37"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Strokes"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Burger Hat"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

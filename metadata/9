@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #9",
+    "description": "This is the description",
+    "image": "ipfs://QmZGuH3HxDvKmtBDbxizvrFsoqUFJTKsJ5hzY6RavCRuc7",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Poprocks"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Rarepizzas"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_68"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_46"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Poprocks"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

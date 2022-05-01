@@ -1,0 +1,55 @@
+{
+    "name": "Omakase Frens #27",
+    "description": "This is the description",
+    "image": "ipfs://QmTgFd8CXAszaRZjMdbL8QiQYaghVc3jWjCCieTnByUPcm",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Two Tone Kilt"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Brown Owl"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_129"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_23"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_12"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Black Cucumber"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Strokes"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Green Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

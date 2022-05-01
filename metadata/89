@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #89",
+    "description": "This is the description",
+    "image": "ipfs://QmRVkzQ9wmUZz3uRo8f1ssgcrmpvMMeGJ3Ei4X5SAQ1Dc1",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_10"
+        },
+        {
+            "trait_type": "body",
+            "value": "Lobster"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_124"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_35"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Tongue Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "sea"
+        }
+    ]
+}

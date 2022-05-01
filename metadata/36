@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #36",
+    "description": "This is the description",
+    "image": "ipfs://Qmddg8JKxYMqP8YPWY4kL46Xpik6WLTvuaGNwuhdmH1oMA",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "meateorite"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_92"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_25"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Yellow Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

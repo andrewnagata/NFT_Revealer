@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #10",
+    "description": "This is the description",
+    "image": "ipfs://QmfXRp8FEUhjNH6vRs73CqGKEeTc5UWh3Hf5xEzDzTJZT4",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Undies"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Color Owl"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Rarepizzas"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_115"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_1"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "mouth_21"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

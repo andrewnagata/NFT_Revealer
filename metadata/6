@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #6",
+    "description": "This is the description",
+    "image": "ipfs://QmXpvzHr8uZfGBFs8k25fCfXg9sE4CAgGgpywqp5HjDx2L",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_15"
+        },
+        {
+            "trait_type": "body",
+            "value": "Laika"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_124"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_44"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Crown Horns"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "space"
+        }
+    ]
+}

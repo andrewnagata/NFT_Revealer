@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #31",
+    "description": "This is the description",
+    "image": "ipfs://QmXnjbGCCLe65xMe5QzpGrtAPuZMBAm3TNXr5uMfQmUSoo",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Peanut Poo Pile"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Camellia"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_68"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_19"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Squirty Mayo Crown"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

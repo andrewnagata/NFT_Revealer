@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #45",
+    "description": "This is the description",
+    "image": "ipfs://QmXn3FNpmxhmE94zKX9eT4BvEmRmf7E89ECivEKRvXJsJL",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno Golden"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Buttered Rump"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik one"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_59"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_22"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Bangs"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

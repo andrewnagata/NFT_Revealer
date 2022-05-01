@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #46",
+    "description": "This is the description",
+    "image": "ipfs://QmaiJzJS4wib8b1DhrN3z4wjVx5NQYbDMWUXGtqSQFeBaR",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "White Spot"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Rainbow Feather"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_93"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_3"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Black Tufted"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

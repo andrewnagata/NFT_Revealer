@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #2",
+    "description": "This is the description",
+    "image": "ipfs://QmUiFjgd9e9aCVHTWM4j5QhkMp8yMSDGBxxtxpcfofYKo2",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_4"
+        },
+        {
+            "trait_type": "body",
+            "value": "Jerk Chicken Bikini"
+        },
+        {
+            "trait_type": "wings",
+            "value": "Fly"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Anchovies"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_76"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Jalepeno Gohst Pepper"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "air"
+        }
+    ]
+}

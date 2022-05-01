@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #90",
+    "description": "This is the description",
+    "image": "ipfs://Qmbv3k13GGGAF9Bpkh4ZKaJTbRjaALd9trcTWPPD4fMsEX",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Tongue Tips"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Tongue Toes"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Marshmallow"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_57"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_37"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Blue Bubble Helmet"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Omakase Frens #22",
+    "description": "This is the description",
+    "image": "ipfs://QmaC2is22bfs3obwiyPpYecRj8y4vYcU9Pf1CSSd7EyyZR",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Oregeno"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Dark Green"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Korbacik Cheese"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_129"
+        },
+        {
+            "trait_type": "whole_head",
+            "value": "Onion Ring"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

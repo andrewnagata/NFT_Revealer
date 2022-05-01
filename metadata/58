@@ -1,0 +1,39 @@
+{
+    "name": "Omakase Frens #58",
+    "description": "This is the description",
+    "image": "ipfs://QmaNd8iPwBmguLN5N5o7ApQEFWnUt2xsTdctNyA3VQ77nD",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_8"
+        },
+        {
+            "trait_type": "body",
+            "value": "Space Body"
+        },
+        {
+            "trait_type": "body_dress",
+            "value": "Flag"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Turquoise"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Sputnik two"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_114"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_42"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}

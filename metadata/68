@@ -1,0 +1,43 @@
+{
+    "name": "Omakase Frens #68",
+    "description": "This is the description",
+    "image": "ipfs://QmX61zPLNrRtsXs5FckusEGhisd13MGuJkJkMHskiq4rwa",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "background_7"
+        },
+        {
+            "trait_type": "body",
+            "value": "Doge Cheesecake"
+        },
+        {
+            "trait_type": "torso",
+            "value": "Shadow"
+        },
+        {
+            "trait_type": "belt",
+            "value": "Rosemary"
+        },
+        {
+            "trait_type": "offerings",
+            "value": "offerings_29"
+        },
+        {
+            "trait_type": "head",
+            "value": "head_24"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Green Paint Stroke Bangs"
+        },
+        {
+            "trait_type": "headwear",
+            "value": "Green Zucchini"
+        },
+        {
+            "trait_type": "tribe",
+            "value": "land"
+        }
+    ]
+}
