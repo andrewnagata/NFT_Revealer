@@ -12,3 +12,4 @@ services:
       dockerfile: Dockerfile
       context: ./api
     container_name: api
+    env_file: .env
