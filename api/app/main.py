@@ -10,6 +10,7 @@ app = FastAPI()
 
 init()
 
+# UNCOMMENT FOR LOCAL TESTING
 # origins = [
 #     "http://localhost",
 #     "http://localhost/event",
@@ -25,7 +26,7 @@ init()
 
 @app.get("/")
 def read_root():
-    return {"Hello": "Fast API World"}
+    return {"Hello": "Rolling Revelaer is ready"}
 
 
 @app.post("/event/")
