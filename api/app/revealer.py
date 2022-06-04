@@ -1,28 +1,35 @@
 import os
+from s3_adapter import file_exists
 from web3_adapter import getMaxSupply
 from models import Event
-from s3_adapter import upload_image, upload_metadata
-
-total_minted: int
-index: int
+from s3_adapter import reveal_image, reveal_metadata
 
 def init():
-    total_minted = getMaxSupply()
-    global index
-    index = total_minted - 1 # assume there is token_id 0
-    print(f"Revealer initialized at index: {index}")
+    #total_minted = getMaxSupply()
+    total_minted = 1
+    print(f"Revealer initialized at index: {total_minted}")
+
+    # On initialization, go back in history to make sure tokenIDs have been uploaded
+    # It could be that this process was down for a while, and the revealer needs to catch up
+
+    # TODO implement this
+    last_token = 0
+    unrevealed_count = total_minted - last_token
 
 def new_event(event: Event):
-    print("We have a new event uploading files...")
+    """A new event from the mempool arrived. check out to see if it is a mint confirmation."""
+
     if event.status != "confirmed":
         return
     if event.contractCall.methodName != "publicMint":
         return
 
+    print("We have a new event uploading files...")
+
+    start_index = getMaxSupply()
     count = int(event.contractCall.params["count"])
-    global index
-    start = index
-    index += count
+    end_index = start_index + count
+
 
     # PATH be different on prod server - beware
     # should check to see if dev or prod
@@ -30,18 +37,17 @@ def new_event(event: Event):
     root_image_path = ROOT_DIR + "/images"
     root_meta_path = ROOT_DIR + "/metadata"
 
-    for i in range(0,count):
+    for next in range(start_index, end_index):
         # Get files for index
-        next = start + i
         image_file = str(next) + ".jpg"
         path_to_image = os.path.join(root_image_path, image_file)
         meta_file = str(next)
         path_to_meta = os.path.join(root_meta_path, meta_file)
 
-        upload_image(path_to_image, image_file)
+        reveal_image(image_file)
         print(f"Uploaded image: {image_file}")
 
-        upload_metadata(path_to_meta, meta_file, "meta")
+        reveal_metadata(meta_file, "meta")
         print(f"Uploaded metadata: {meta_file}")
 
         print(f"Upload complete for token: {next}")
